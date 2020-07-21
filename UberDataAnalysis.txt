@@ -1,0 +1,2 @@
+Perform exploratory data analysis to gain insights into the data to find the frequency of uber trip depends on the year, month, day, 
+and hour using Python pandas, matplotlib, and seaborn
